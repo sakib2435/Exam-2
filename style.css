@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section-part{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.top-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.logo{
+    font-size: 20px;
+}
+
+nav{
+    padding: 20px;
+}
+
+nav>ul{
+    display: flex;
+}
+
+nav>ul>li{
+    list-style: none;
+    margin-right: 20px;
+}
+
+nav>ul>li>a{
+    text-decoration: none;
+    color: black;
+}
+
+.section-part>img{
+    width: 1000px;
+    height: 500px;
+    border-radius: 5px;
+}
+
+.div{
+    height: 300px;
+    width: 50%;
+    padding: 10px;
+    float: left;
+    color: black;
+}
+
+.div2 .btn{
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+.div3 img{
+    height: 350px;
+    width: 40%;
+    padding: 10px;
+    float: right;
+}
+
+.html{
+    text-align: center;
+    padding: 20px;
+    margin-top: 350px;
+}
+
+.html h3{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.html p{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#section img{
+    float: left;
+    height: 300px;
+    width: 50%;
+    padding: 10px;
+}
+
+#section2 img{
+    float: right;
+    height: 300px;
+    width: 47%;
+    padding: 10px;
+}
+
+
+#section4 img{
+    float: left;
+    height: 300px;
+    width: 41%;
+    margin-left: 10px;
+}
+
+#section5 img{
+    float: right;
+    height: 300px;
+    width: 56%;
+    margin-right: 10px;
+}
+
+#section6{
+    text-align: center;
+    padding: 20px;
+    margin-top: 270px;
+}
+
+#section6 h3{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#section6 p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#section7{
+    float: left;
+    height: 300px;
+    width: 49%; 
+    padding-left: 10px;
+}
+
+#section7 img{
+    height: 50px;
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+#section7 h3{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#section7 p{
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#section8{
+    float: right;
+    height: 300px;
+    width: 49%;
+    padding-right: 10px;
+}
+
+#section8 img{
+    height: 50px;
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+#section8 h3{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#section8 p{
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#section9{
+     text-align: center;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+#section9 img{
+    height: 150px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+#section9 h3{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#section9 p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#section10{
+    height: 300px;
+    width: 50%;
+    padding: 10px;
+    float: left;
+    color: black;
+}
+
+#section11 .btn{
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+#section12{
+    height: 200px;
+    width: 40%;
+    padding: 10px;
+    float: right;
+}
+
+.html5{
+    border: 2px solid red;
+    padding: 50px;
+    border-radius: 5px;
+}
+
+.html5>form{
+    padding: 30px;
+}
+
+.html5>form>button{
+    padding: 10px;
+    width: 100%;
+    background-color: red;
+    color: white;
+    border-style:none ;
+    border-radius: 5px;
+}
+
+footer{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(19, 19, 24, 0.2);
+    margin-top: 20px;
+}
+
+footer p{
+    margin-top: 20px;
+}
+
+footer div{
+    display: inline-flex;
+}
